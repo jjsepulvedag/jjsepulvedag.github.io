@@ -34,20 +34,42 @@ Education
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical skills
+  * Programming languages
+    * R
+    * Python 
+    * Linux, bash scripting
+  * Data analysis
+    * SQL
+    * Numpy
+    * Scipy.stats
+    * Pandas
+    * Matplotlib
+  * Writing 
+    * Latex
+    * Libreoffice 
+    * Scribus
+* Engineering software
+  * Autocad
+  * QGis and ArcGis 
+  * Plaxis 2D
+  * Midas GTS NX
+* Languages
+  * Native in Spanish 
+  * Fluent in English
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Courses and certificates
+======
+* Academic English: Writing Specialization (UC Irvine, Coursera)
+* The pronunciation of American English (UC Irvine, Coursera)
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +83,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
