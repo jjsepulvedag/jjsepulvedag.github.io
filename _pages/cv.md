@@ -34,21 +34,18 @@ Education
   
 Skills
 ======
-* Technical skills
-  * Programming languages
-    * R
-    * Python 
-    * Linux, bash scripting
-  * Data analysis
-    * SQL
-    * Numpy
-    * Scipy.stats
-    * Pandas
-    * Matplotlib
-  * Writing 
-    * Latex
-    * Libreoffice 
-    * Scribus
+
+* Programming languages
+  * R
+  * Python 
+  * Linux, bash scripting
+* Data analysis and Machine Learning 
+  * Data analysis: Numpy, Scipy.stats, Pandas, Matplotlib
+  * Machine Learning: scikit-learn
+* Writing and 
+  * Scribus
+  * Libreoffice 
+  * Latex and Beamer
 * Engineering software
   * Autocad
   * QGis and ArcGis 
@@ -58,16 +55,17 @@ Skills
   * Native in Spanish 
   * Fluent in English
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Courses and certificates
 ======
 * Academic English: Writing Specialization (UC Irvine, Coursera)
 * The pronunciation of American English (UC Irvine, Coursera)
+
+<!-- Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+
   
 <!-- Talks
 ======
