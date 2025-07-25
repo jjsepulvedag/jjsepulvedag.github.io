@@ -9,16 +9,16 @@ author_profile: true
 
 # pySubSim
 
-blah blah blah
+[Github Repo](https://github.com/jjsepulvedag/pyMCMCSubSim)
 
 # gmAnalyzer
 
-blah blah blah
+[Github Repo](https://github.com/jjsepulvedag/gm_analyzer)
 
 # k0_calc
 
-blah blah blah
+[Github Repo](https://github.com/jjsepulvedag/k0_calc)
 
 # pySMSIM
 
-blah blah blah
+[Github Repo](https://github.com/jjsepulvedag/pySMSIM)
